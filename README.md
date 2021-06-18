@@ -12,7 +12,7 @@
 
   <img src="https://telegra.ph/file/9c351d7a5592c3fefa235.jpg" width="130" height="210">
 
-  <h1>A modified Version of 🐺 WhatsAsena Duplicated</h1>
+  <h1>A modified Version of 🐺 WhatsAsena</h1>
 
 </div>
 
@@ -88,7 +88,7 @@ Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes,
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL) special thanks for help & advancing
 - [@kappithannemo](https://github.com/kappithannemo) for this coded
--  [@phaticusthiccy](https://github.com/phaticusthiccy) for the bots mainframe
+- [@Dinal Pabasara](https://github.com/RAVANA-SL) for help
 - Translators
 
 ## License
