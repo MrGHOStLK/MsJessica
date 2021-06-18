@@ -3,9 +3,9 @@
 
 - [Yusuf Usta](https://github.com/yusufusta)
 - [@fusufs](https://t.me/fusufs)
-- [@phaticusthiccy](https://github.com/phaticusthiccy)
 - [@TOXIC DEVIL](https://github.com/TOXIC-DEVIL)
 - [@kappithannemo](https://github.com/kappithannemo)
+- [@Dinal Pabasara](https://github.com/RAVANA-SL)
 
 <h1 align="center"><b> 🎀Ms Jessica tHe lovly whatsapp BOT🎀  </b></h1>
 <div align="center">
@@ -64,11 +64,7 @@ Asena; Asena UserBot,
 | Tagall|✅|1.0|
 | Unvoice|✅|1.3|
 
-
-Here Are All Commands With Description
-----|
-[GistHub](https://gist.github.com/phaticusthiccy/8dfa827a71647e5f659680d75543a748) |
-
+### ═════💢═════
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
@@ -79,9 +75,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) |[![Vai838](https://github.com/Vai838.png?size=100)](https://github.com/Vai838) |  [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
+[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://quiec.tech) | [![Vai838](https://github.com/Vai838.png?size=100)](https://github.com/Vai838) |  [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
 ----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
+[Yusuf Usta](https://t.me/fusufs) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Author, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
 
 ## Thanks To
