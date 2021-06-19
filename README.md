@@ -28,7 +28,7 @@ Asena; Asena UserBot,
 ## Not For Everyone. Only Me😒!!)
 
 😂👀💔 ඇස් කටේ බිච්
-
+## o_O� 
 ## GHOST'S THE BOT FEATHERS 👻
 
 | All Features 📢|Available ☑️|Version 🔎|
