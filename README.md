@@ -7,12 +7,12 @@
 - [@kappithannemo](https://github.com/kappithannemo)
 - [@Dinal Pabasara](https://github.com/RAVANA-SL)
 
-<h1 align="center"><b>😈👻😇 GHOST THE MOST POWERFUL WHATSAPP BOT 😇👻😈</b></h1>
+<h1 align="center"><b>😈👻😇"GHOST" THE MOST POWERFUL WHATSAPP BOT 😇👻😈</b></h1>
 <div align="center">
 
   <img src="https://telegra.ph/file/bc8b55b77fa9c1923ef48.jpg" width="200" height="230">
 
-  <h1>A modified Version of 🐺 WhatsAsena</h1>
+  <h1> 😘A modified Version of 🐺 WhatsAsena🙄 </h1>
 
 </div>
 
@@ -27,9 +27,9 @@ Asena; Asena UserBot,
 ## Setup
 ## Not For Everyone. Only Me😒!!)
 
-😂👀💔
+😂👀💔 ඇස් කටේ බිච්
 
-## GHOST'THE BOT FEATHERS 👻
+## GHOST'S THE BOT FEATHERS 👻
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
