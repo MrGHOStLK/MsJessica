@@ -7,10 +7,10 @@
 - [@kappithannemo](https://github.com/kappithannemo)
 - [@Dinal Pabasara](https://github.com/RAVANA-SL)
 
-<h1 align="center"><b> 🎀Ms Jessica tHe lovly whatsapp BOT🎀  </b></h1>
+<h1 align="center"><b>😈👻😇 GHOST THE MOST POWERFUL WHATSAPP BOT 😇👻😈</b></h1>
 <div align="center">
 
-  <img src="https://telegra.ph/file/5de90544510c181c83287.jpg" width="200" height="230">
+  <img src="https://telegra.ph/file/bc8b55b77fa9c1923ef48.jpg" width="200" height="230">
 
   <h1>A modified Version of 🐺 WhatsAsena</h1>
 
@@ -29,7 +29,7 @@ Asena; Asena UserBot,
 
 😂👀💔
 
-## Msjessica Features
+## GHOST'THE BOT FEATHERS 👻
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
