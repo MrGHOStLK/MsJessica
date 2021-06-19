@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'help', fromMe: false, desc: Lang.WP}, (async (messag
     r_text[4] = "https://telegra.ph/file/e43cdef96dd9e936c2ea4.jpg";
     r_text[5] = "https://telegra.ph/file/e43cdef96dd9e936c2ea4.jpg";
     
-    var i = Math.floor(6*Math.random())
+    var i = Math.floor(5*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
