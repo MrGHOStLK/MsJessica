@@ -10,7 +10,7 @@
 <h1 align="center"><b> 🎀Ms Jessica tHe lovly whatsapp BOT🎀  </b></h1>
 <div align="center">
 
-  <img src="https://telegra.ph/file/9c351d7a5592c3fefa235.jpg" width="130" height="210">
+  <img src="https://telegra.ph/file/5de90544510c181c83287.jpg" width="200" height="230">
 
   <h1>A modified Version of 🐺 WhatsAsena</h1>
 
